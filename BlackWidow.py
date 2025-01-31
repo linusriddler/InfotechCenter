@@ -1,6 +1,3 @@
-# Programmer: Linus Riddle
-# Branch: Welcome
-# Date:1.30.2025
-# Program: BlackWidow 
+print("Welcome Branch - Developer: Linus Riddle \n")
 
-print("Welcome to InfoTechCenter V1.0")
+print("\tWelcome to InfoTechCenter V1.0")
