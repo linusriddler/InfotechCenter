@@ -1,6 +1,8 @@
 # Import required libraries
 import sys  # Provides access to system-specific functions
 import time  # Provides time-related functions like sleep
+import random
+from time import sleep
 
 # ANSI escape codes for adding colors to terminal output
 RED = "\033[91m"     # Red color for critical messages
@@ -39,8 +41,6 @@ while x != 20:  # Loop will run 20 times to simulate booting progress
 
 # When the loop reaches 20 iterations, display the boot completion message
 print(RED + "\n\nOperating System Booted Up - Retina Scanned - Access Granted" + RESET)
-import random
-from time import sleep
 
 # Print a decorative header for the program
 print("\n****************************************\n")
