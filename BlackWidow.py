@@ -1,4 +1,3 @@
-# Programmer: Linus Riddle
-# Branch: Gasoline
-# Date:
-# Program:
+print("****************************************")
+print("Gasoline Branch - Developer Linus Riddle")
+
